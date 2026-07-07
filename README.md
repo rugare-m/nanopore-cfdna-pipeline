@@ -123,10 +123,6 @@ nextflow run main.nf \
     --reference /path/to/reference.fa
 ```
 
-## Development status
-
-This pipeline is under active development and was designed for research use in an HPC setting. Additional validation, parameterisation, and documentation may be required before use in production or clinical workflows.
-
 ## Author
 
 Rugare Maruzani
