@@ -47,7 +47,7 @@ The workflow has been configured for a SLURM executor and uses Apptainer contain
 | Dorado   | Oxford Nanopore basecalling                            |
 | samtools | BAM sorting and indexing                               |
 | modkit   | Methylation extraction from modified-base BAMs         |
-| ClairS-TO| Somatic variant calling from long-read sequencing data |
+| ClairS-TO| Somatic variant calling from long-read sequencing data in tumour only mode |
 | ichorCNA | Copy-number and tumour fraction estimation             |
 
 ## Configuration
