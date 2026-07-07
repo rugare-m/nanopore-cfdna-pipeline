@@ -7,8 +7,8 @@ include { CLAIRS } from './modules/clairs'
 include { MODKIT } from './modules/modkit'
 
 
-params.pod5s     = "/scratch/prj/awan_giu/amanda/pod5/*"
-params.reference = "/scratch/prj/awan_giu/amanda/hg19/hg19.fa"
+params.pod5s     = ".../pod5/*"
+params.reference = ".../hg19/hg19.fa"
 params.outdir    = "results"
 
 params.dorado_model = "hac,5mCG_5hmCG"
