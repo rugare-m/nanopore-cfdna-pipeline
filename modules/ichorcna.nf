@@ -56,7 +56,7 @@ process ICHORCNA_RUN {
         --WIG ${wig} \\
         --gcWig /usr/local/bin/ichorCNA/inst/extdata/gc_hg19_1000kb.wig \\
         --mapWig /usr/local/bin/ichorCNA/inst/extdata/map_hg19_1000kb.wig \\
-        --genomeBuild hg38 \\
+        --genomeBuild hg19 \\
         --genomeStyle UCSC \\
         --chrs "c(paste0('chr', 1:22), 'chrX')" \\
         --chrTrain "c(paste0('chr', 1:22))" \\
